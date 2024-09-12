@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <url>
+    <loc>https://www.joyandstick.com/articles/news-wayfinder-x-critical-role-crossover</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Joy+Stick</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-09-11T08:00:00+00:00</news:publication_date>
+      <news:title>Wayfinder x Critical Role crossover!</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.joyandstick.com/articles/game-trailer-descenders-next-is-dropping-in</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Joy+Stick</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-09-12T12:30:00+00:00</news:publication_date>
+      <news:title>Descenders Next is dropping in!</news:title>
+    </news:news>
+  </url>
+
+</urlset>
