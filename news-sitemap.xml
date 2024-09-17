@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.joyandstick.com/articles/news-wayfinder-x-critical-role-crossover</loc>
+    <loc>https://www.joyandstick.com/articles/a-pitch-for-a-pitch-stack</loc>
     <news:news>
       <news:publication>
         <news:name>Joy+Stick</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2024-09-11T08:00:00+00:00</news:publication_date>
-      <news:title>Wayfinder x Critical Role crossover!</news:title>
+      <news:publication_date>2024-09-16T10:30:00+00:00</news:publication_date>
+      <news:title>A Pitch for a Pitch Stack</news:title>
     </news:news>
   </url>
 
@@ -21,8 +21,8 @@
         <news:name>Joy+Stick</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2024-09-12T12:30:00+00:00</news:publication_date>
-      <news:title>Descenders Next is dropping in!</news:title>
+      <news:publication_date>2024-09-17T18:30:00+00:00</news:publication_date>
+      <news:title>New World Aeternum: 1-Hour Open Beta Gameplay Experience</news:title>
     </news:news>
   </url>
 
