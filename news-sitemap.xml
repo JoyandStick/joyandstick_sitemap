@@ -3,26 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.joyandstick.com/articles/a-pitch-for-a-pitch-stack</loc>
+    <loc>https://www.joyandstick.com/articles/the-sound-of-survival-mastering-the-auditory-thrills-of-hunt-showdown</loc>
     <news:news>
       <news:publication>
         <news:name>Joy+Stick</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2024-09-16T10:30:00+00:00</news:publication_date>
-      <news:title>A Pitch for a Pitch Stack</news:title>
+      <news:publication_date>2024-09-30T11:30:00+00:00</news:publication_date>
+      <news:title>The Sound of Survival: Mastering the Auditory Thrills of Hunt: Showdown</news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.joyandstick.com/articles/game-trailer-descenders-next-is-dropping-in</loc>
+    <loc>https://www.joyandstick.com/articles/ravenswatch-has-launched-into-10</loc>
     <news:news>
       <news:publication>
         <news:name>Joy+Stick</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2024-09-17T18:30:00+00:00</news:publication_date>
-      <news:title>New World Aeternum: 1-Hour Open Beta Gameplay Experience</news:title>
+      <news:publication_date>2024-09-28T18:30:00+00:00</news:publication_date>
+      <news:title>Ravenswatch has launched into 1.0!</news:title>
     </news:news>
   </url>
 
